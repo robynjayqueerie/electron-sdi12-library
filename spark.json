@@ -1,0 +1,7 @@
+{
+  "name": "electron-sdi12-library",
+  "author": "Robyn Hannah <rhannah@nrie.com.au>",
+  "license": "MIT",
+  "version": "1.0.00",
+  "description": "A basic class library which implements a limited version of SDI-12 communications"
+}
